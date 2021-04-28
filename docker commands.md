@@ -4,6 +4,10 @@
 
 >[docker build](https://docs.docker.com/engine/reference/commandline/build/) `Build an image from a Dockerfile`
 
+* `docker –version` - to get the currently installed version of docker
+
+![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/11/Docker_Version-Docker-Commands-Edureka-3-e1510653973130.png)
+
 * `docker login` - login to the docker hub repository
 
 ![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/11/docker_login-Docker-Commands-Edureka-1-e1510653706645.png)
